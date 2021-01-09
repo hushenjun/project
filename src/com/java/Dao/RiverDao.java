@@ -11,7 +11,7 @@ import com.java.util.Stringutil;
 
 
 /**
- * 图书Dao类
+ * 河流Dao类
  * @author 流至-胡申俊
  *
  */
